@@ -1,0 +1,28 @@
+.image1{
+    display: flex;
+}
+.image2{
+    display: flex;
+}
+.image3{
+    display: flex;
+}
+img{
+    width: 250px;
+    height: 250px;
+}
+.paragraph1{
+    margin-left: 40px;
+    align-content: center;
+    padding-top: 40px;
+}
+.paragraph2{
+    margin-left: 40px;
+    align-content: center;
+    padding-top: 40px;
+}
+.paragraph3{
+    margin-left: 40px;
+    align-content: center;
+    padding-top: 40px;
+}
